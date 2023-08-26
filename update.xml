@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://laptrinhvb.net/TestAutoUpdate.zip</url>
-    <changelog>https://laptrinhvb.net</changelog>
+    <url>https://github.com/ZenBlessGloBal/icr/raw/main/icr.zip</url>
+    <changelog></changelog>
     <mandatory>true</mandatory>
 </item>
